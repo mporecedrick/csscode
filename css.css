@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+     border-radius: 30;
+}
+form{
+    background-color: blue;
+}
+table{
+    background-color: rgb(62, 13, 199);
+}
+input{
+    border-radius: 20;
+}
